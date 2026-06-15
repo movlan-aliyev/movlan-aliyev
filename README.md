@@ -12,7 +12,7 @@ Azerbaijani chess master and software engineer based in Boston, Massachusetts. I
 
 | Platform | Profile |
 |----------|---------|
-| Chess.com | [aliyev-movlan](https://www.chess.com/member/aliyev-movlan) |
+| Chess.com | [movlanaliyev1995](https://www.chess.com/member/movlanaliyev1995) |
 | Lichess | [aliyev-movlan](https://lichess.org/@/aliyev-movlan) |
 | ChessTempo | [aliyev-movlan](https://chesstempo.com/stats/aliyev-movlan/) |
 
